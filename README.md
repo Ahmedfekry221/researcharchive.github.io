@@ -1,12 +1,11 @@
 # Academic Research Archive
 
-This repository hosts a static website for archiving and sharing academic research papers. The site is optimized for Google Scholar indexing using the "Landing Page" strategy with Highwire Press meta tags.
+This repository hosts a static website for archiving and sharing academic research papers.
 
 ## Features
 
-- **Landing Pages**: Individual HTML pages for each paper with Google Scholar-compatible meta tags.
+- **Landing Pages**: Individual HTML pages for each paper with detailed abstracts.
 - **Automatic Generation**: GitHub Actions generate HTML landing pages from metadata in `papers.json`.
-- **Google Scholar Optimized**: Uses Highwire Press tags for reliable indexing and citation tracking.
 - **Responsive Design**: Clean layout for easy browsing.
 
 ## Folder Structure
@@ -61,19 +60,6 @@ researcharchive.github.io/
    - GitHub Actions will detect the changes and generate `papers/filename.html` with meta tags.
    - The main page will automatically list the new paper.
 
-## Google Scholar Optimization
-
-- **Highwire Press Tags**: Each paper page includes `citation_*` meta tags for Scholar indexing.
-- **Landing Page Strategy**: Main page links to HTML abstracts, not PDFs directly.
-- **PDF Requirements**: Ensure PDFs are text-searchable with:
-  - Title on the first page
-  - Authors listed below the title
-  - "References" or "Bibliography" section at the end
-- **Indexing Tips**:
-  - Create a Google Scholar profile and add papers manually.
-  - Link from academic domains (.edu) if possible.
-  - Allow weeks for indexing.
-
 ## Site Configuration
 
 - **Jekyll Site**: Processes `index.html` and `_data/papers.json` to generate the main page.
@@ -84,7 +70,7 @@ researcharchive.github.io/
 
 ## Contributing
 
-Ensure metadata is complete and PDFs meet Scholar requirements. Test locally if needed.
+Ensure metadata is complete and PDFs are properly formatted. Test locally if needed.
 
 ## Deployment
 
