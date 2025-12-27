@@ -1,5 +1,8 @@
 name: Update Papers
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
